@@ -32,10 +32,10 @@
 
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
--   <p> 🏠 You can contact me directly on </p>
+-   <p> 🏠 You can contact me directly on 
 <a href="https://linkedin.com/in/moises-tejeda-a25b59268/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a></p>
 <!--Intro end-->
 
 
