@@ -35,7 +35,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Tejeda-M
+&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
 
 ---
