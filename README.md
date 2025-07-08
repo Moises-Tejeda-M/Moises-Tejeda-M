@@ -1,13 +1,4 @@
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Moises Tejeda</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
 <h1 align="center">Hola, soy Moisés 👋</h1>
 
 <p align="center">
@@ -26,9 +17,7 @@
 ---
 
 ### 📂 Algunos de mis proyectos
-- 📝 [To-Do App](https://github.com/TU_USUARIO/To-Do) — App de lista de tareas con Angular
-- 💻 [Portafolio](https://github.com/TU_USUARIO/portfolio) — Web personal en desarrollo
-- 📊 [Dashboard Power BI](https://github.com/TU_USUARIO/powerbi-dashboard) — Proyecto de análisis con Power BI
+- 📝 [To-Do App](https://github.com/Moises-Tejeda-M) — App de lista de tareas con Angular
 
 ---
 
@@ -42,9 +31,8 @@
 
 ### 📫 ¿Dónde encontrarme?
 
-- 📧 moises@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🌐 [moisestejeda.dev](https://moisestejeda.dev) *(si tienes portafolio)*
+- 📧 moisestejeda1998@hotmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/moises-tejeda-a25b59268/)
 
 ---
 
