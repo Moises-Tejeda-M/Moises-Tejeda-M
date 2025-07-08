@@ -1,6 +1,5 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -33,7 +32,9 @@
 
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
-- 🏠 You can contact me directly on Linkedin –  https://www.linkedin.com/in/moises-tejeda-a25b59268/ **👋**
+- 🏠 You can contact me directly on–  <a href="[https://linkedin.com/in/abdoachhoubi" target="_blank](https://www.linkedin.com/in/moises-tejeda-a25b59268/)">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <!--Intro end-->
 
 
