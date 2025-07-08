@@ -24,13 +24,13 @@
 
 
 <!--Intro start-->
-- <p>🔭 I’m currently working on **Angular**</p>
+- 🔭<p> I’m currently working on **Angular**</p>
 
-- <p>🌱 Project I've worked on  **To Do List**</p>
+- 🌱<p> Project I've worked on  **To Do List**</p>
 
-- <p>☁️ I've keen interest in Programming language. So, I'm learning **Angular, React**</p>
+- ☁️<p> I've keen interest in Programming language. So, I'm learning **Angular, React**</p>
 
-- <p>📫 Feel free to reach me out **moisestejeda1998@gmail.com**</p>
+- 📫 <p>Feel free to reach me out **moisestejeda1998@gmail.com**</p>
 
 -   <p> 🏠 You can contact me directly on 
 <a href="https://linkedin.com/in/moises-tejeda-a25b59268/" target="_blank">
